@@ -12,7 +12,7 @@ Whoami I'm a Passionate Programmer, Expressive Editor, Harmless Hacker
 <h3 align="left">
 Connect with me:
 </h3>
-<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">(https://github.com/Network-Karan)
+<p align="left"> <a href="https://github.com/Network-Karan/" target="_blank"> <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="40" height="40"/>
 
 
 
