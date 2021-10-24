@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="Banner.png"/> </p>
+<p align="left"> <img src="Banner.gif"/> </p>
 
 - 🔭 I’m currently working on [HTML, Python](https://github.com/Network-Twisty/Notepad)
 
