@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm Karan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="Banner.gif"/> </p>
+
+<h2 align="center">
+Hi there 👋, I'm Karan
+</h2>
+
+<h4 align="center">
+  <b>Whoami</b> I'm a Passionate Programmer, Expressive Editor, Harmless Hacker
+</h4>
+
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Network-Karan)
 
 - 🔭 I’m currently working on [HTML, Python](https://github.com/Network-Twisty/Notepad)
 
