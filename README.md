@@ -1,16 +1,18 @@
 <p align="left"> <img src="Banner.gif"/> </p>
 
-<h2 align="center">
+<h3 align="center">
 Hi there 👋, I'm Karan
-</h2>
+</h3>
 
-<h4 align="center">
-Whoami I'm a Passionate Programmer, Expressive Editor, Harmless Hacker
-</h4>
+<h2 align="center">
+I'm a Passionate Programmer 💻, Editor 📸, and Ethical Hacker🧑‍💻!
+</h2> 
 
 
-<h3 align="left">
-Connect with me:
+
+
+
+### 🤝 Connect with me:
 </h3>
 <p align="left"> <a href="https://github.com/Network-Karan/" target="_blank"> <img src=https://github.com/Network-Karan/Network-Karan/blob/main/Logo_Modules/Github.png alt="Github logo" width="40" height="40"/></a> <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"> <img src=https://github.com/Network-Karan/Network-Karan/blob/main/Logo_Modules/Gmail.png alt="Gmail logo" width="40" height="40"/></a> <a href="https://www.instagram.com/_kxran_/" target="_blank"> <img src=https://github.com/Network-Karan/Network-Karan/blob/main/Logo_Modules/Instagram.png alt="Instagram logo" width="40" height="40"/></a> <a href="https://twitter.com/Network_Karan" target="_blank"> <img src=Logo_Modules/Twitter.png alt="Twitter logo" width="40" height="40"/></a> <a href="https://www.reddit.com/user/oEsctasy/" target="_blank"> <img src=https://github.com/Network-Karan/Network-Karan/blob/main/Logo_Modules/Reddit.png alt="Github logo" width="40" height="40"/></a> <a href="https://stackoverflow.com/users/17293082/twisty" target="_blank"> <img src=https://github.com/Network-Karan/Network-Karan/blob/main/Logo_Modules/Stackoverflow.svg alt="Github logo" width="40" height="40"/></a>
 
