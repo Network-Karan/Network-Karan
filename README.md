@@ -50,10 +50,10 @@ Since school has reopened after the quarantine:earth_asia:, I’m not having the
  
 <img src="https://github.com/Network-Karan/Network-Karan/blob/main/stonks-up-stongs.gif" alt="side Image" align="right" width="300" height="auto" />
 
-
 ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Network-Karan&show_icons=true&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Network-Karan&repo=github-readme-stats)](https://github.com/Netowork-Karan/github-readme-stats)
 
+## Profile Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Network-Karan)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
