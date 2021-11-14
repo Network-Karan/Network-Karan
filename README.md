@@ -19,7 +19,7 @@ I wanted to know how computers worked, I wanted to crack the magic, and once I s
 
 I was like a God who could create his own universe, and order the universe to act in the ways that he wanted it to be. He could come up with an idea, and shape that idea into something real.
 
-I enjoy the mental challenge of making things. It’s frustrating, but if you have an end goal in mind, and have the persistence to see it through then you can get past the frustration and enjoy the “W” of seeing your idea come into fruition.  
+I enjoy the mental challenge of making things. It’s frustrating, but if you have an end goal in mind, and have the persistence, to see it through then you can get past the frustration and enjoy the “W” of seeing your idea come into fruition.  
 
 
 ## 🤝 Connect with me:
@@ -28,16 +28,16 @@ I enjoy the mental challenge of making things. It’s frustrating, but if you ha
 
 ## 🔭 I'm currently working on
 * My Old Projects 💫
-* Working Out with CSS + HTML
+* Working On CSS + HTML skills
 * My Website 😍
-* My CSS and Python Skills
+* My Python Skills
 
 ## 🌱 Challenges that I’m currently challenging myself: 
-Since school has reopened after the quarantine:earth_asia:, I’m not having the same time:watch: I used to have during quarantine. So I have decided to improve my time management and set a couple of self-challenges in order to push myself more further.:running:
+Since school has reopened after the quarantine:earth_asia:, I’m not having the same that time:watch: I used to have during quarantine. So I have decided to improve my time management and set a couple of self-challenges in order to push myself more further.:running:
 
-* Learn to code:man_technologist: 3-4 hours a day with no distraction ( Weekends ) 
+* Learn to code:man_technologist: 3-4 hours a day without distraction ( At Weekends ) 
 * Read:newspaper: Dev and UI articles daily 
-* Workout:weight_lifting_man: 3 days in a Week and take a day break 
+* Workout:weight_lifting_man: 3 days a Week and take a day break 
 * Avoid spending too much time on Social Media:skull_and_crossbones:
 * Adapting the minimalism life style 
 
