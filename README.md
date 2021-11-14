@@ -15,9 +15,9 @@ How did I start Coding ?
 
 Curiosity, 
 
-I wanted to know how computers worked, I wanted to crack the magic, and once I started to learn it was like I was a god. 	
+I wanted to know how computers worked, I wanted to crack the magic, and once I started to learn it, I felt like I was a God.	
 
-I was like a god that could create his own universe, and order the universe to act in the ways that I wanted it to be. I could come up with an idea, and shape that idea into something real.
+I was like a God that could create his own universe, and order the universe to act in the ways that I wanted it to be. I could come up with an idea, and shape that idea into something real.
 
 I enjoy the mental challenge of making things. It’s frustrating, but if you have an end goal in mind, and have the persistence to see it through then you can get past the frustration and enjoy the “W” of seeing your idea come into fruition.  
 
