@@ -28,7 +28,7 @@ I enjoy the mental challenge of making things. It’s frustrating, but if you ha
 
 ## 🔭 I'm currently working on
 * My Old Projects 💫
-* Working Out with CSS + HMTL
+* Working Out with CSS + HTML
 * My Website 😍
 * My CSS and Python Skills
 
