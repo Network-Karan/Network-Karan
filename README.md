@@ -1,4 +1,4 @@
-<p align="left"> <img src="Banner.gif"/> </p>
+<p align="left"> <img src="https://github.com/Network-Karan/Network-Karan/blob/main/Github%20Logo.gif"/> </p>
 
 <h3 align="center">
 Hi there 👋, I'm Karan
