@@ -35,9 +35,5 @@ Let’s innovate and leave the competition in the gravel trap! 🚀🏎️</h4>
 ![](https://github-readme-stats.vercel.app/api?username=Network-Karan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Network-Karan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
-[![](https://visitcount.itsvg.in/api?id=Network-Karan&icon=0&color=12)](https://visitcount.itsvg.in)
-
-
-
+![snake gif](https://github.com/Network-Karan/Network-Karan/blob/output/github-snake-dark.svg)
 
