@@ -1,4 +1,4 @@
-<img src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif" width="400" />
+<img src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif" width="" />
 
 <h3 align="center">
 Hi there 👋, I'm Karan
