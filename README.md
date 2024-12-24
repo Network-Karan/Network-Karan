@@ -1,4 +1,4 @@
-<img src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif" width="" />
+<img src="https://www.itsasap.com/hs-fs/hubfs/cybersecurity%20framework.gif?width=778&name=cybersecurity%20framework.gif" width="" />
 
 <h3 align="center">
 Hi there 👋, I'm Karan
