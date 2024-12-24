@@ -1,4 +1,4 @@
-[![MasterHead]("https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif")]
+<img src="https://github.com/Network-Karan/Network-Karan/blob/main/Why%20are%20you%20coding.gif" align="right" width="400" height="auto" />
 
 <h3 align="center">
 Hi there 👋, I'm Karan
