@@ -1,4 +1,4 @@
-<img src="https://github.com/Network-Karan/Network-Karan/blob/main/Why%20are%20you%20coding.gif" align="right" width="400" height="auto" />
+<img src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif" width="4000" height="300" />
 
 <h3 align="center">
 Hi there 👋, I'm Karan
