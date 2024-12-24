@@ -1,4 +1,4 @@
-<img src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif" width="4000" height="300" />
+<img src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif" width="400" />
 
 <h3 align="center">
 Hi there 👋, I'm Karan
