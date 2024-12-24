@@ -1,4 +1,4 @@
-<img align="right" src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif">
+<img align="right" width="400" src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif">
 
 <h3 align="center">
 Hi there 👋, I'm Karan
