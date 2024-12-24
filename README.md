@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://github.com/Network-Karan/Network-Karan/blob/main/Github%20Logo.gif"/> </p>
+<p align="left"> <img src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif"/> </p>
 
 <h3 align="center">
 Hi there 👋, I'm Karan
