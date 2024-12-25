@@ -32,11 +32,18 @@ Let’s innovate and leave the competition in the gravel trap! 🚀🏎️</h3>
  
 <h2 align="center">📈 GitHub Stats</h2> 
 
-![](https://github-readme-stats.vercel.app/api?username=Network-Karan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Network-Karan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Network-Karan&theme=aura&hide_border=true&include_all_commits=true&count_private=false" width="55%" /> </br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Network-Karan&theme=aura&hide_border=true" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Network-Karan&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="36%" /> </br> 
+</div>
 
 <div align="center">
  
 ![snake gif](https://github.com/Network-Karan/Network-Karan/blob/output/github-snake-dark.svg)
 </div>
 
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=Network-Karan&icon=2&color=12)](https://visitcount.itsvg.in)
+</div>
