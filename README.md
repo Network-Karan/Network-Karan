@@ -1,4 +1,4 @@
-*Banner*
+<img src="https://github.com/Network-Karan/Network-Karan/blob/main/KARAN.jpg" width="1000" height="500">
 
 
 <h3 align="center">👨‍💻 Hello! I’m Karan!</h3>
